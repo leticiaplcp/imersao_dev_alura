@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "JavaScript",
+        "descricao": "Linguagem de programação interpretada de alto nível, essencial para o desenvolvimento web front-end e cada vez mais popular no back-end com Node.js.",
+        "ano": 1995
+    },
+    {
+        "nome": "Python",
+        "descricao": "Linguagem versátil e de sintaxe limpa, amplamente utilizada em desenvolvimento web, ciência de dados, inteligência artificial e automação.",
+        "ano": 1991
+    },
+    {
+        "nome": "Java",
+        "descricao": "Linguagem orientada a objetos, robusta e independente de plataforma, muito usada em sistemas corporativos, aplicações Android e sistemas embarcados.",
+        "ano": 1995
+    },
+    {
+        "nome": "C#",
+        "descricao": "Linguagem moderna e orientada a objetos, desenvolvida pela Microsoft. É a principal linguagem para o ecossistema .NET e desenvolvimento de jogos com Unity.",
+        "ano": 2000
+    },
+    {
+        "nome": "C++",
+        "descricao": "Extensão da linguagem C, é uma linguagem poderosa e de alto desempenho, utilizada em softwares de sistema, jogos de alta performance e aplicações financeiras.",
+        "ano": 1985
+    },
+    {
+        "nome": "Ruby",
+        "descricao": "Linguagem dinâmica com foco na simplicidade e produtividade. Conhecida pelo framework Ruby on Rails, que agiliza o desenvolvimento de aplicações web.",
+        "ano": 1995
+    },
+    {
+        "nome": "Go",
+        "descricao": "Linguagem compilada e concorrente criada pelo Google. É conhecida por sua simplicidade, eficiência e ótimo suporte para programação concorrente.",
+        "ano": 2009
+    },
+    {
+        "nome": "Swift",
+        "descricao": "Linguagem de programação moderna, rápida e segura, criada pela Apple para o desenvolvimento de aplicativos para iOS, macOS, watchOS e tvOS.",
+        "ano": 2014
+    },
+    {
+        "nome": "Kotlin",
+        "descricao": "Linguagem pragmática que roda na JVM. É a linguagem preferida do Google para o desenvolvimento de aplicativos Android, sendo totalmente interoperável com Java.",
+        "ano": 2011
+    },
+    {
+        "nome": "PHP",
+        "descricao": "Linguagem de script do lado do servidor, amplamente utilizada para o desenvolvimento web. É a base de sistemas de gerenciamento de conteúdo como o WordPress.",
+        "ano": 1994
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "Um superset do JavaScript que adiciona tipagem estática opcional. Desenvolvido pela Microsoft, ajuda a construir aplicações JavaScript em larga escala.",
+        "ano": 2012
+    },
+    {
+        "nome": "Rust",
+        "descricao": "Linguagem de programação focada em segurança de memória e concorrência. É usada para desenvolver sistemas confiáveis e de alto desempenho.",
+        "ano": 2010
+    }
+]
